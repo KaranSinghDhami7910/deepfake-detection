@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+*.zip
+*.mp4
+*.avi
+data/
+models/
+env/
+.DS_Store
+.ipynb_checkpoints

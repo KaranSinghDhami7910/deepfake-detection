@@ -1,0 +1,9 @@
+tensorflow>=2.15
+keras
+numpy
+pandas
+opencv-python
+mtcnn
+scikit-learn
+matplotlib
+streamlit
