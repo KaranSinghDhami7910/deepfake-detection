@@ -15,12 +15,15 @@ This project detects AI-generated deepfake videos using a hybrid CNN–RNN archi
 ## 📁 Folder Structure
 
 deepfake-detection/
-├── data/ # dataset (not uploaded)
-├── models/ # trained models
-├── notebooks/ # experiments
-├── src/ # source code
-│ ├── data_preprocessing.py
-│ ├── cnn_model.py
-│ ├── rnn_model.py
-│ ├── ensemble_model.py
-│ └── app.py
+├── data/               # dataset (not uploaded)
+├── models/             # trained models
+├── notebooks/          # experiments and notebooks
+├── src/                # source code
+│   ├── data_preprocessing.py
+│   ├── cnn_model.py
+│   ├── rnn_model.py
+│   ├── ensemble_model.py
+│   └── app.py
+├── README.md
+├── requirements.txt
+└── .gitignore
